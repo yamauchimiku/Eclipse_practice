@@ -4,6 +4,7 @@ public class Chapter02 {
 		//メゾットの処理を記述
 		System.out.println("Hello WEBCAMP!");
 		System.out.println("Hello Java!");
+		System.out.println("Hello World");
 	}
 
 }
